@@ -5,13 +5,13 @@ This is a simple weather application that fetches and siplays weather informatio
 
 ![alt text](image.png)
 
-**Dependancies**
+## Dependancies
 
 
 __Serde__ :A Rust library for serializing and deserializing data structures colored - A Rust library for terminal text coloring reqwest - A Rust library for making HTTP requests 
 
 
-**How to run**
+## How to run
 
 
 Ensure you have rust installed navigate to the root of the project directory on your terminal and run:
