@@ -1,4 +1,4 @@
-#Weather station
+# Weather station
 
 
 This is a simple weather application that fetches and siplays weather information from the open weather map api based on the users input of the city name and country code.
